@@ -20,5 +20,7 @@ I have intentionally included the original notebook despite its less polished or
 
 
 Link to ResNet18P weights: https://drive.google.com/file/d/11nbDbx9FfFHjDE-ID2dTWXZjYXy7eMsh/view?usp=sharing
+
 Link to ResNet18S weights: https://drive.google.com/file/d/1uFyXfPLwuwEPJw9-caJ_0OoaPsWvlokW/view?usp=sharing
+
 Link to DinoV2's classifier weights: https://drive.google.com/file/d/1qrLTiQ-vMVleCIEUN1oWNSZC9VWYjz_L/view?usp=sharing
